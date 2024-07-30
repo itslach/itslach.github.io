@@ -1,13 +1,13 @@
 ---
 title: 'desert walk'
-subtitle: '29-07-2024'
+subtitle: 'this is me'
 date: 2024-07-29 00:00:00
-description: 'i'd walk for forever to find you'
+description: i'd walk for forever to find you
 featured_image: '/images/postcovers/desertwalk.jpg'
-layout: project
 ---
 
-<img src="/images/postcovers/desertwalk.jpg" alt="desert walk" width="600" height="400">
+![](/images/postcovers/desertwalk.jpg)---
+
 
 <div class="gallery" data-columns="2">
     <img src="/images/postcovers/desertwalk.jpg">
