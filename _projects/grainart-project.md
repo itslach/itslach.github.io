@@ -6,6 +6,7 @@ description: 'i'd walk for forever to find you'
 featured_image: '/images/postcovers/desertwalk.jpg'
 ---
 
+<img src="/images/postcovers/desertwalk.jpg" alt="desert walk" width="600" height="400">
 
 <div class="gallery" data-columns="2">
     <img src="/images/postcovers/desertwalk.jpg">
