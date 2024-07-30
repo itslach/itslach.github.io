@@ -11,4 +11,5 @@ featured_image: '/images/postcovers/desertwalk.jpg'
 
 <div class="gallery" data-columns="2">
     <img src="/images/postcovers/desertwalk.jpg">
+    <img src="/images/postcovers/arch1.jpg">
 </div>
