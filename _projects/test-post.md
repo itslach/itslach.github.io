@@ -6,7 +6,7 @@ description: 'this is the beginning of the end'
 featured_image: 'images/postcovers/fireflower.jpg'
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
     <img src="/images/postcovers/fireflower.jpg">
     <img src="/images/postcovers/intraDeluge.jpg">
     <img src="/images/postcovers/project 208.jpg">
