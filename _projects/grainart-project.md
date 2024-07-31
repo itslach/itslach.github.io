@@ -6,7 +6,7 @@ description: i'd walk for forever to find you
 featured_image: '/images/postcovers/desertwalk.jpg'
 ---
 
-![](/images/postcovers/desertwalk.jpg)---
+![](/images/postcovers/desertwalk.jpg)
 
 
 <div class="gallery" data-columns="2">
